@@ -1,0 +1,10 @@
+{
+  "name": "x2reacte2e",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "cypress": "^12.8.1"
+  }
+}
